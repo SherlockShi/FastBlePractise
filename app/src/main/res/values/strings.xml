@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FastBlePractise</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="permission_rationale_message">您已拒绝了授权，请同意授权，否则该功能将无法正常使用!</string>
+    <string name="permission_denied_forever_message">我们需要一些您拒绝的权限或系统授权失败的权限，请手动设置授权，否则该功能将无法正常使用!</string>
+    <string name="please_agree_to_location_permission_to_use_ble_function">请同意位置权限，否则蓝牙功能将无法使用！</string>
+    <string name="ble_not_supported">本设备不支持蓝牙</string>
+    <string name="error_bluetooth_not_supported">本设备不支持蓝牙</string>
+    <string name="please_open_bluetooth_to_use_ble_function">请打开蓝牙以使用蓝牙功能</string>
+    <string name="start_scanning_bluetooth_device">开始扫描蓝牙设备&#8230;</string>
+    <string name="connect_fail">连接失败</string>
+    <string name="active_disconnected">蓝牙连接已断开</string>
+    <string name="disconnected">连接断开</string>
+    <string name="write_success">命令执行成功</string>
+    <string name="write_failure">命令执行失败</string>
+</resources>
